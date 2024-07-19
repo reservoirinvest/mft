@@ -1,0 +1,38 @@
+---
+quant_tax:
+    desc: quant ELSS Tax Saver Fund - Growth Option - Direct Plan
+    folio: xxxxxx4172
+    invested: 4133380.25
+    units: 18125.1
+
+quant_smallcap:
+    desc: quant Small Cap Fund - Growth Option - Direct Plan
+    folio: xxxxxx8453
+    invested: 7622718.76
+    units: 41266.755
+
+quant_midcap:
+    desc: quant Mid Cap Fund - Growth Option - Direct Plan
+    folio: xxxxxx8453
+    invested: 199990.00
+    units: 1306.351
+
+quant_infra:
+    desc: quant Infrastructure Fund - Growth Option-Direct Plan
+    folio: xxxxxx8453
+    invested: 3044847.75
+    units: 124304.542
+
+icici_bharat:
+    desc: ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option
+    folio: xxxxxx67
+    invested: 2130000.00
+    units: 110372.29
+
+pgim_midcap:
+    desc: 'PGIM India Midcap Opportunities Fund - Direct Plan - Growth Option'
+    folio: xxxxxxx8221
+    invested: 1965901.70
+    units: 40384.722
+
+
